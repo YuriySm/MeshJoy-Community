@@ -1,5 +1,7 @@
 # MeshJoy
 
+*🇺🇦 Ukrainian / Українська версія](README.uk.md).*
+
 ![MeshJoy board](docs/images/meshjoy-board.png)
 
 A portable **Meshtastic / Meshcore** radio device with up to **1 W LoRa** output power and **3–4 days** of battery life.

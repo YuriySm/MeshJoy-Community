@@ -1,5 +1,7 @@
 # MeshJoy
 
+*Read this in [🇬🇧 English](README.md).*
+
 ![Плата MeshJoy](docs/images/meshjoy-board.png)
 
 Портативний пристрій для радіомережі **Meshtastic / Meshcore** з максимальною потужністю **1 Вт LoRa** і часом роботи **3–4 доби**.
