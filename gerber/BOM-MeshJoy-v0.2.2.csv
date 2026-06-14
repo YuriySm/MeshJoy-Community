@@ -1,0 +1,26 @@
+Comment,Designator,Footprint,LCSC,Quantity
+100K,R7,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25803,1
+100n,"C1,C2,C3,C5",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C14663,4
+100u,"C4,C6",CP_EIA-3528-15_AVX-H_HandSolder,C16133,2
+10K,"R5,R6",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25804,2
+10n,"C10,C11,C7,C8,C9",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C57112,5
+1M,"R1,R2",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C22935,2
+22uF,C12,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C59461,1
+4K7,"R3,R4",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C23162,2
+AO3401A,Q3,SOT-23,C15127,1
+SI2312,"Q1,Q2",SOT-23,C20917,2
+E22-400M30S,U1,XCVR_E22-900M30S_manual_solder,,1
+OLED SSD1306,SCREEN1,SSD1306,,1
+SW_Push,SW1,SW_3x4x2_SMD,,1
+SW_SPST,SW2,button_12x12,,1
+Joystick,S1,5_Way_Switch_10mm,,1
+SuperMini nRF52840,U2,SuperMini_nRF52840_AH_USBup,,1
+ANT,J1,SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount,,1
+Buzzer,BZ1,Buzzer_9032,,1
+XL63802 Buck-boost,PS1,XL63802-Buck-boost,,1
+BAT,J3,JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,,1
+-VAUX,J2,PinHeader_1x01_P2.54mm_Vertical,,1
++VGPS,J4,Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork,,1
+AUX,SW3,SW_SPDT_PCM12,,1
+PWR,SW4,SW_SPDT_PCM12,,1
+Jumper_2_Open,JP1,SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm,,1

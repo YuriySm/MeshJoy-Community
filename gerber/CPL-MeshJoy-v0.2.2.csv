@@ -1,0 +1,23 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,130.9625,-96.0,0.0,bottom
+C10,10n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,126.0675,-83.45,0.0,bottom
+C11,10n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,126.0675,-79.75,0.0,bottom
+C12,22uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,107.02,-65.75,0.0,bottom
+C2,100n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,119.2625,-42.8,0.0,bottom
+C3,100n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,134.37,-79.75,180.0,bottom
+C4,100u,CP_EIA-3528-15_AVX-H_HandSolder,135.4,-75.0,0.0,bottom
+C5,100n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,129.8,-111.4,0.0,bottom
+C6,100u,CP_EIA-3528-15_AVX-H_HandSolder,134.4725,-111.4,0.0,bottom
+C7,10n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,117.6525,-87.02,180.0,bottom
+C8,10n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,117.6525,-83.45,180.0,bottom
+C9,10n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,126.0675,-87.02,0.0,bottom
+Q1,SI2312,SOT-23,139.15,-87.9,0.0,bottom
+Q2,SI2312,SOT-23,134.6,-87.9,0.0,bottom
+Q3,AO3401A,SOT-23,104.5,-69.5625,0.0,bottom
+R1,1M,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,130.9625,-99.1,0.0,bottom
+R2,1M,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,126.6875,-99.1,0.0,bottom
+R3,4K7,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,126.2875,-50.9,180.0,bottom
+R4,4K7,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,126.2875,-48.2,180.0,bottom
+R5,10K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,139.7,-83.45,0.0,bottom
+R6,10K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,134.37,-83.45,0.0,bottom
+R7,100K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,102.61,-65.75,180.0,bottom
