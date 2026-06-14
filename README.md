@@ -68,7 +68,8 @@ The case was designed from scratch in Fusion 360 and will be **free to download 
 
 - Website: https://meshjoy.com.ua/
 - Technical details: https://meshjoy.com.ua/technical-details/
-- Contact the author / Telegram discussion group (see website)
+- Telegram discussion group: https://t.me/MeshJoy
+- Contact the author: https://t.me/Yura_e2c77f35
 
 ## License
 

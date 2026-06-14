@@ -66,7 +66,8 @@
 
 - Сайт: https://meshjoy.com.ua/
 - Технічні деталі: https://meshjoy.com.ua/technical-details/
-- Контакт з автором / Telegram-група для обговорень (див. сайт)
+- Telegram-група для пропозицій та обговорень: https://t.me/MeshJoy
+- Контакт з автором: https://t.me/Yura_e2c77f35
 
 ## Ліцензія
 
