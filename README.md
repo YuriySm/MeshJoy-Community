@@ -1,6 +1,6 @@
 # MeshJoy
 
-*🇺🇦 Ukrainian / Українська версія](README.uk.md).*
+*[🇺🇦 Ukrainian / Українська версія](README.uk.md).*
 
 ![MeshJoy board](docs/images/meshjoy-board.png)
 
